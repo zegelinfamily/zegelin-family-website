@@ -28,7 +28,7 @@ struct Footer: HTML {
             }
             Text {
                 "&nbsp;| Source Code for this site is at "
-                Link("GitHub ", target: URL(static: "https://github.com/zegelinfamily/our-travels"))
+                Link("GitHub ", target: URL(static: "https://github.com/zegelinfamily/zegelin-family-website"))
             }
         }.class("d-flex justify-content-center")  /// 'bootstrap' - place side by side
         .margin(.small)
