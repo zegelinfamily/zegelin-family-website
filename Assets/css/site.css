@@ -1,0 +1,33 @@
+
+html, body{
+    font-family: 'Helvetica Neue', arial, sans-serif;
+    font-weight: 300;
+}
+
+.sidebar{
+    width: 180px;
+    top: 0;
+    a{
+        color: #aaa;
+    }
+}
+
+.sidebar-list{
+    text-align: end;
+    padding: 0px;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+  color: red;
+  text-decoration: none;
+}
+
+em{
+    font-size: 0.9em;
+}
+
+
