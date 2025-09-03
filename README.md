@@ -1,11 +1,5 @@
 # Zegelin Family Website
 
-See __Notes document at the top of this directory to see how this all works.
+This Xcode package creates the Zegelin family website using the [Ignite](https://github.com/twostraws/Ignite) static website builder.
 
-
-To Do
-
-Add some more pictures
-
-Later maybe add most of the text of Karl + Frieda from the book
-    Redact some stuff.
+The website can be found [here](https://zegelin.com).
